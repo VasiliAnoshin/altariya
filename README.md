@@ -30,3 +30,14 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+## Docker
+for docker build: 
+```bash
+docker build -t app .
+```
+
+for docker run:
+```bash
+docker run -d -p 8000:8000 app
+```
