@@ -42,5 +42,5 @@ for docker run:
 docker run -d -p 8000:8000 app
 ```
 
-## uploaded to vercel
+## Vercel deployment
 https://altariya-l01gtktb7-vasilis-projects-8d037b7b.vercel.app/docs
